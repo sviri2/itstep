@@ -1,0 +1,67 @@
+# def fun(a,b):
+    
+#     return a*2,b*2
+# var1,var2 = fun(5,10)
+
+# print(var1,var2)
+#########################3
+
+# def fun(a,b):
+    
+#     return a*2,b*2
+# var1,_ = fun(5,10)
+
+# print(var1)
+##########################
+
+# def count_down(start):
+#     if start == 0:
+#         return
+#     else:
+        
+#         print(start)
+#     count_down(start-1)
+    
+    
+# count_down(5)    
+#############################
+
+# def factorial(n):
+#     if n == 1:
+#         return 1
+#     else:
+#         return n*factorial(n-1)
+    
+# print(factorial(5))
+
+#############################
+
+# def fibonaci(n):
+#     if n<=1:
+#         return n
+#     else:
+#         return(fibonaci(n-1) + fibonaci(n-2))
+# print(fibonaci(6))
+# #######################################
+
+
+# def power(base,exp):
+#     if exp ==1:
+#         return base
+#     else:
+#         return base*power(base,exp-1)
+    
+# print(power(10,4))
+
+############################################
+#[1,2,3,]-------->6
+
+# def sum_recursive(lst):
+#     if len(lst) == 1:
+#         return lst[0]
+#     else:
+#         return lst[0] + sum_recurcive(lst[1:])
+##################################################
+
+
+

@@ -10,3 +10,6 @@ if(grade > 50 and x > 1 and y == "shvili" ):
    print(a.format(name, surname, grade))
 else:
     print(b.format(name, surname, grade))
+    
+    
+    name

@@ -1,0 +1,24 @@
+.tv{
+    color: red;
+    background-color: bisque;
+    margin: 10px;
+    padding: 10px;
+    font-size: 70%;
+}
+.internet{
+    color: blue;
+    background-color: aqua;
+    margin: 10px;
+    padding: 10px;
+    font-size: 70%;
+}
+.mix{
+    color: green;
+    background-color: greenyellow;
+    margin: 10px;
+    padding: 10px;
+    font-size: 70%;
+}
+#tveko{
+    color: brown;
+}
